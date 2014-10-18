@@ -1,0 +1,24 @@
+{
+  "name": "connect-sequelizejs",
+  "version": "1.0.0",
+  "description": "connect-sequelizejs is a SQL session store using [Sequelize.js](http://sequelizejs.com).",
+  "main": "index.js",
+  "dependencies": {
+    "debug": "^0.7.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Victor Queiroz",
+    "email": "victorcqueirozg@gmail.com",
+    "twitter": "victor_queirozg"
+  },
+  "keywords": [
+    "sequelize",
+    "mysql",
+    "connect-session"
+  ],
+  "license": "MIT"
+}
