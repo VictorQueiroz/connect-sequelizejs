@@ -5,7 +5,7 @@ connect-sequelizejs is a SQL session store using [Sequelize.js](http://sequelize
 # Installation
 
 ```
-$ npm install connect-sequelizejs
+npm install connect-sequelizejs
 ```
 
 # Options
